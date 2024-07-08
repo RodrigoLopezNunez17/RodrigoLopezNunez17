@@ -9,40 +9,20 @@ Presentación. Actualmente estoy aprendiendo Pyspark, Docker, TensorFlow, Airflo
 datos No-SQL. Nivel de Inglés: C1- Avanzado. </p>
 
 # Proyectos.
-• Data Scientist - “Steam Games”    
-Experiencia académica. Henry Bootcamp. 
-May. 12 - Jun. 05. 
-En el proyecto logré desarrollar un sistema de recomendación (Similitud del Coseno), un análisis 
-de sentimientos con la librería “NLTK”; además de un proceso ETL (Extracción, Transformación y 
-Carga) y un proceso EDA (Análisis de Datos Exploratorio). 
-Diseñar soluciones en base a los datos presentados y/o lo pretendido por el usuario/cliente. 
-Desarrollar ingeniería de datos, datawarehouse y machine learning para realizar predicciones 
-sobre métricas en particular.
-Herramientas: Python, FastAPi, Pandas, SQL, Render. 
-
-• Data Analyst - “Siniestros Viales”                           
-Experiencia académica. Henry BootCamp.    
-Jun. 08 – Jun 14. 
-En el proyecto logré desarrollar el análisis de datos proporcionado por el Observatorio de 
-Movilidad y Seguridad Vial, centro de estudios bajo la órbita de la Secretaría de Transporte del 
-Gobierno de la Ciudad Autónoma de Buenos Aires; y medir el rendimiento de ciertos sectores 
-(KPI). 
-Desarrollar un análisis exploratorio de datos, identificar patrones en los datos 
-presentados.Presentar la información de manera visual, presentar medidores de rendimiento.
-Herramientas: Python, Pandas, SQL, Power BI. 
-
-• Data Engineer - “Google-Yelp, Reviews y Recomendaciones” 
-Experiencia Académica. Henry BootCamp.              
-Jun. 17 – Jul. 05. 
-El equipo analizó datos de las plataformas Google Maps y Yelp para poder desarrollar un sistema 
-de recomendacion, así como un análisis de sentimientos. Mi tarea como Data Engineer fue 
-desarrollar una pipeline de ETL automatizada en Google Cloud Platform contemplando la 
-posterior alimentación a los datos con una Carga Incremental. Finalmente,  disponibilicé estos 
-datos al equipo a través de Bigquery. 
-Desarrollar un entorno en la nube, crear un clúster de computadoras para apoyar al 
-procesamiento de datos, automatimar un proceso de ETL.
-Herramientas: Google Cloud Platform, Cloud Functions, Cloud Storage, BigQuery, DataProc, 
-Python 3.12, Google Client Libraries. 
+<p>&bull;&nbsp;Data Scientist - &ldquo;Steam Games&rdquo;</p>
+<p>Experiencia acad&eacute;mica. Henry Bootcamp.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; May. 12 - Jun. 05.</p>
+<p>En el proyecto logr&eacute; desarrollar un sistema de recomendaci&oacute;n (Similitud del Coseno), un an&aacute;lisis de sentimientos con la librer&iacute;a &ldquo;NLTK&rdquo;; adem&aacute;s de un proceso ETL (Extracci&oacute;n, Transformaci&oacute;n y Carga) y un proceso EDA (An&aacute;lisis de Datos Exploratorio). Dise&ntilde;ar soluciones en base a los datos presentados y/o lo pretendido por el usuario/cliente. Desarrollar ingenier&iacute;a de datos, datawarehouse y machine learning para realizar predicciones sobre m&eacute;tricas en particular.</p>
+<p>Herramientas: Python, FastAPi, Pandas, SQL, Render.</p>
+<p>&nbsp;</p>
+<p>&bull; Data Analyst - &ldquo;Siniestros Viales&rdquo;</p>
+<p>Experiencia acad&eacute;mica. Henry BootCamp.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jun. 08 &ndash; Jun 14.</p>
+<p>En el proyecto logr&eacute; desarrollar el an&aacute;lisis de datos proporcionado por el Observatorio de Movilidad y Seguridad Vial, centro de estudios bajo la &oacute;rbita de la Secretar&iacute;a de Transporte del Gobierno de la Ciudad Aut&oacute;noma de Buenos Aires; y medir el rendimiento de ciertos sectores (KPI). Desarrollar un an&aacute;lisis exploratorio de datos, identificar patrones en los datos presentados.Presentar la informaci&oacute;n de manera visual, presentar medidores de rendimiento.</p>
+<p>Herramientas: Python, Pandas, SQL, Power BI.</p>
+<p>&nbsp;</p>
+<p>&bull; Data Engineer - &ldquo;Google-Yelp, Reviews y Recomendaciones&rdquo;</p>
+<p>Experiencia Acad&eacute;mica. Henry BootCamp.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jun. 17 &ndash; Jul. 05.</p>
+<p>El equipo analiz&oacute; datos de las plataformas Google Maps y Yelp para poder desarrollar un sistema de recomendacion, as&iacute; como un an&aacute;lisis de sentimientos. Mi tarea como Data Engineer fue desarrollar una pipeline de ETL automatizada en Google Cloud Platform contemplando la posterior alimentaci&oacute;n a los datos con una Carga Incremental. Finalmente, disponibilic&eacute; estos datos al equipo a trav&eacute;s de Bigquery. Desarrollar un entorno en la nube, crear un cl&uacute;ster de computadoras para apoyar al procesamiento de datos, automatimar un proceso de ETL.</p>
+<p>Herramientas: Google Cloud Platform, Cloud Functions, Cloud Storage, BigQuery, DataProc, Python 3.12, Google Client Libraries.&nbsp;</p>
 
 # Tecnologías.
 
@@ -62,13 +42,6 @@ Python 3.12, Google Client Libraries.
 
 # Contacto.
 
-<div align="center">
-  <a href="www.linkedin.com/in/rodrigo-lópez-núñez" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="roylopnun@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-
+<p>&bull;&nbsp;<a href="https://github.com/RodrigoLopezNunez17/RodrigoLopezNunez17/blob/main/www.linkedin.com/in/rodrigo-l%C3%B3pez-n%C3%BA%C3%B1ez">LinkedIn</a></p>
+<p>&bull;&nbsp;<a href="https://github.com/RodrigoLopezNunez17/RodrigoLopezNunez17/blob/main/roylopnun@gmail.com">Gmail</a>&nbsp;</p>
+<p>&bull; Celular : 55 19 39 70 68</p>
