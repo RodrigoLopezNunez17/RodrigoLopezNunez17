@@ -47,6 +47,6 @@ datos No-SQL. Nivel de Inglés: C1- Avanzado. </p>
 
 # Contacto.
 
-* [LinkedIn](www.linkedin.com/in/rodrigo-lópez-núñez)
-* [Gmail](roylopnun@gmail.com)
+* LinkedIn : www.linkedin.com/in/rodrigo-lópez-núñez
+* Gmail : roylopnun@gmail.com
 * Celular : 55 19 39 70 68
