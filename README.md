@@ -40,6 +40,11 @@ datos No-SQL. Nivel de Inglés: C1- Avanzado. </p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
+# Idiomas.
+
+<p>&bull; Ingl&eacute;s C1.</p>
+<p>&bull; Alem&aacute;n A2.</p>
+
 # Contacto.
 
 <p>&bull;&nbsp;<a href="https://github.com/RodrigoLopezNunez17/RodrigoLopezNunez17/blob/main/www.linkedin.com/in/rodrigo-l%C3%B3pez-n%C3%BA%C3%B1ez">LinkedIn</a></p>
