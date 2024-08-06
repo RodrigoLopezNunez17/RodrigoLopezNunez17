@@ -52,7 +52,7 @@ datos No-SQL. Nivel de Inglés: C1- Avanzado. </p>
 # Idiomas.
 
 <p>&bull; Ingl&eacute;s C1.</p>
-<p>&bull; Alem&aacute;n A2.</p>
+<p>&bull; Alem&aacute;n A1.</p>
 
 # Contacto.
 
