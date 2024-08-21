@@ -6,7 +6,7 @@ flujos de trabajo, estructura de datos, evaluación de modelos, machine learning
 experiencia en arquitectura de datos, generación de reportes con MySQL, Power Bi, Python
 Pandas, Google Cloud Platform. Con Capacidad de Integración, Resiliencia y Técnicas de 
 Presentación. Actualmente estoy aprendiendo Pyspark, Docker, TensorFlow, Airflow, bases de 
-datos No-SQL. Nivel de Inglés: C1- Avanzado. </p>
+datos No-SQL.</p>
 
 # Proyectos.
 <p>&bull;&nbsp;Data Scientist - &ldquo;Steam Games&rdquo;</p>
