@@ -54,10 +54,10 @@ datos No-SQL.</p>
 # Idiomas.
 
 <p>&bull; Ingl&eacute;s C1.</p>
-<p>&bull; Alem&aacute;n A1.</p>
+<p>&bull; Alem&aacute;n A2.</p>
 
 # Contacto.
 
 * LinkedIn : www.linkedin.com/in/rodrigo-lópez-núñez
 * Gmail : roylopnun@gmail.com
-* Celular : 55 19 39 70 68
+* WhatsApp : 55 19 39 70 68
