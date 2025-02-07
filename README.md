@@ -17,7 +17,7 @@ datos No-SQL.</p>
 <p>&bull; Data Analyst - &ldquo;Siniestros Viales&rdquo;</p>
 <p>Experiencia acad&eacute;mica. Henry BootCamp.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jun. 08 &ndash; Jun 14.</p>
 <p>En el proyecto logr&eacute; desarrollar el an&aacute;lisis de datos proporcionado por el Observatorio de Movilidad y Seguridad Vial, centro de estudios bajo la &oacute;rbita de la Secretar&iacute;a de Transporte del Gobierno de la Ciudad Aut&oacute;noma de Buenos Aires; y medir el rendimiento de ciertos sectores (KPI). Desarrollar un an&aacute;lisis exploratorio de datos, identificar patrones en los datos presentados.Presentar la informaci&oacute;n de manera visual, presentar medidores de rendimiento.</p>
-<p>Herramientas: Python, Pandas, SQL, Power BI.</p>
+<p>Herramientas: Python, Pandas, MySQL, Power BI.</p>
 <p>&nbsp;</p>
 <p>&bull; Data Engineer - &ldquo;Google-Yelp, Reviews y Recomendaciones&rdquo;</p>
 <p>Experiencia Acad&eacute;mica. Henry BootCamp.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jun. 17 &ndash; Jul. 05.</p>
