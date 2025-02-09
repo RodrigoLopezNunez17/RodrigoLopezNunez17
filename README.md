@@ -58,6 +58,6 @@ datos No-SQL.</p>
 
 # Contacto.
 
-* LinkedIn : www.linkedin.com/in/rodrigo-lópez-núñez
+* LinkedIn : www.linkedin.com/in/rodrigo-lopez-nunez
 * Gmail : roylopnun@gmail.com
 * WhatsApp : 55 19 39 70 68
