@@ -2,7 +2,7 @@
 
 <p align="left">Data Scientist Junior con background académico en Ingeniería Petrolera que me ayudó a 
 desarrollar habilidades de análisis, trabajo en equipo. Conocimientos en metodologías ágiles, 
-flujos de trabajo, estructura de datos, evaluación de modelos, machine learning. Tengo 
+flujos de trabajo, estructura de datos, evaluación de modelos, Machine Learning. Tengo 
 experiencia en arquitectura de datos, generación de reportes con MySQL, Power Bi, Python
 Pandas, Google Cloud Platform. Con Capacidad de Integración, Resiliencia y Técnicas de 
 Presentación. Actualmente estoy aprendiendo Pyspark, Docker, TensorFlow, Airflow, bases de 
