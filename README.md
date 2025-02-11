@@ -54,7 +54,7 @@ datos No-SQL.</p>
 # Idiomas.
 
 <p>&bull; Ingl&eacute;s C1.</p>
-<p>&bull; alem&aacute;n A2.</p>
+<p>&bull; Alem&aacute;n A2.</p>
 
 # Contacto.
 
