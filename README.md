@@ -22,7 +22,7 @@ datos No-SQL.</p>
 <p>&bull; Data Engineer - &ldquo;Google-Yelp, Reviews y Recomendaciones&rdquo;</p>
 <p>Experiencia Acad&eacute;mica. Henry BootCamp.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Jun. 17 &ndash; Jul. 05.</p>
 <p>El equipo analiz&oacute; datos de las plataformas Google Maps y Yelp para poder desarrollar un sistema de recomendacion, as&iacute; como un an&aacute;lisis de sentimientos. Mi tarea como Data Engineer fue desarrollar una pipeline de ETL automatizada en Google Cloud Platform contemplando la posterior alimentaci&oacute;n a los datos con una Carga Incremental. Finalmente, disponibilic&eacute; estos datos al equipo a trav&eacute;s de Bigquery. Desarrollar un entorno en la nube, crear un cl&uacute;ster de computadoras para apoyar al procesamiento de datos, automatimar un proceso de ETL.</p>
-<p>Herramientas: Google Cloud Platform, Cloud Functions, Cloud Storage, BigQuery, DataProc, Python 3.12, Google Client Libraries.&nbsp;</p>
+<p>Herramientas: Google Cloud Platform, Cloud Functions, Cloud Storage, BigQuery, DataProc, Data Fusion. Python 3.12, Google Client Libraries.&nbsp;</p>
 
 # Tecnologías.
 
