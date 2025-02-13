@@ -1,4 +1,4 @@
-# Acerca de mi.
+# Acerca de mí.
 
 <p align="left">Data Scientist Junior con background académico en Ingeniería Petrolera que me ayudó a 
 desarrollar habilidades de análisis, trabajo en equipo. Conocimientos en metodologías ágiles, 
