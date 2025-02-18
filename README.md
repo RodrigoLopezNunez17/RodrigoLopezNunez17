@@ -8,7 +8,7 @@ Pandas, Google Cloud Platform. Con Capacidad de Integración, Resiliencia y Téc
 Presentación. Actualmente estoy aprendiendo Pyspark, Docker, TensorFlow, Airflow, bases de 
 datos No-SQL.</p>
 
-# Proyectos.
+# Proyectos. 
 <p>&bull;&nbsp;Data Scientist - &ldquo;Steam Games&rdquo;</p>
 <p>Experiencia acad&eacute;mica. Henry Bootcamp.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; May. 12 - Jun. 05.</p>
 <p>En el proyecto logr&eacute; desarrollar un sistema de recomendaci&oacute;n (Similitud del Coseno), un an&aacute;lisis de sentimientos con la librer&iacute;a &ldquo;NLTK&rdquo;; adem&aacute;s de un proceso ETL (Extracci&oacute;n, Transformaci&oacute;n y Carga) y un proceso EDA (An&aacute;lisis de Datos Exploratorio). Dise&ntilde;ar soluciones en base a los datos presentados y/o lo pretendido por el usuario/cliente. Desarrollar ingenier&iacute;a de datos, datawarehouse y machine learning para realizar predicciones sobre m&eacute;tricas en particular.</p>
