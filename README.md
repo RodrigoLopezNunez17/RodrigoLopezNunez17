@@ -49,6 +49,11 @@ datos No-SQL.</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width='12' />
   <img src="https://cdn.simpleicons.org/r/276DC3" height="40" alt="r logo"  />
+  <img width='12' />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width='12' />
 </div>
 
 # Idiomas.
